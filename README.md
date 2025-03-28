@@ -7,6 +7,7 @@ How to Run the Project
 Clone the Repository:
 
 git clone <-repo-link>
+
 cd emplowise
 
 Install Dependencies:
@@ -19,7 +20,7 @@ Open the App:
 Go to your browser and navigate to:
 http://localhost:3000
 
-🛠Tech Stack Used
+Tech Stack Used
 Frontend: React.js (with Hooks)
 
 State Management: React Hooks (useState, useEffect)
@@ -34,7 +35,7 @@ API: https://reqres.in (Mock Data)
 
 Deployment: Vercel
 
-🔥 API Endpoints
+ API Endpoints
 The project uses the reqres.in API for fetching mock user data.
 
 GET /api/users?page=1 → Fetches paginated list of users
@@ -45,8 +46,8 @@ PUT /api/users/:id → Updates user data
 
 DELETE /api/users/:id → Deletes a user
 
-✅ Features
-🔑 Login & Logout:
+Features
+Login & Logout:
 
 Secure authentication with token storage in localStorage.
 
@@ -64,7 +65,7 @@ Search users by full name (first_name + last_name).
 
 Case-insensitive filtering.
 
-✏️ Edit & Delete Users:
+ Edit & Delete Users:
 
 Edit and remove users with real-time updates.
 
