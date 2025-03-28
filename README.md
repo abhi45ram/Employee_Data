@@ -1,6 +1,6 @@
 Employee Data Management System
 Host Link:
-https://employee-data-ku9c.vercel.app/users
+https://employee-data-ku9c.vercel.app/login
 
 Getting Started
 How to Run the Project
